@@ -1,0 +1,1 @@
+||bark.wxss.dpdns.org^$dnstype=AAAA
